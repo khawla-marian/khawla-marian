@@ -1,6 +1,8 @@
 # 👋 Hi, I’m @khawla-marian  
 
-👀 **I’m passionate about:**  
+👀 **I’m passionate about:** 
+- AI data analysis
+- Drones 
 - Mobile App Development 📱  
 - Web Development 🌐  
 
@@ -13,7 +15,6 @@ I’m open to collaborating on innovative **mobile and web applications** that m
 📫 **How to reach me:**  
 - Email: [khawlamryan306@gmail.com](mailto:khawlamryan306@gmail.com)  
 - LinkedIn: [Khawla Marian](https://www.linkedin.com/in/khawla-marian-557ba225b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Portfolio: [Your Portfolio Website](https://yourwebsite.com)  
 
 😄 **Pronouns:**  
 She/Her  
